@@ -1,4 +1,3 @@
-# webproject
 Coffee Shop Website
 Project Overview
 The Coffee Shop Website is a web project that presents a modern and responsive design for a fictional coffee shop. It consists of a homepage, a menu section, and a contact form, providing users with a seamless browsing experience across different devices. The project is built using HTML for structure, CSS for styling, and JavaScript for interactivity.
